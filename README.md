@@ -91,26 +91,28 @@ Creative AR game for kids. Scan your coloring book to watch characters leap off 
 
 ## 🎯 Focus Areas
 
-- **AI + Mobile UX** — building seamless experiences around complex AI pipelines (e.g. Replicate, Firebase)
-- **Vision Pro + Spatial Computing** — crafting intuitive 3D interactions for the future of productivity and retail
-- **AR/VR with Unity** — immersive storytelling and utility apps with AR Foundation and PolySpatial
-- **BLE / IoT / iBeacon** — bridging physical and digital with sensor-based interactions
-- **UX/UI Design** — deep love for elegant interaction design and practical usability
-- **Rapid Prototyping** — shipping fast, testing early, iterating with purpose
+- **Web & Framer Prototyping** — designing responsive websites and interactive prototypes with Framer.  
+- **AI + Mobile UX** — building seamless experiences around complex AI pipelines (e.g. Replicate, Firebase).  
+- **Vision Pro + Spatial Computing** — crafting intuitive 3D interactions for the future of productivity and retail.  
+- **AR/VR with Unity** — immersive storytelling and utility apps with AR Foundation and PolySpatial.  
+- **BLE / IoT / iBeacon** — bridging physical and digital with sensor-based interactions.  
+- **UX/UI Design** — deep love for elegant interaction design and practical usability.  
+- **Rapid Prototyping** — shipping fast, testing early, iterating with purpose.  
 
 ---
 
 ## 🛠️ Toolbelt
 
-| Area | Tools & Frameworks |
-|------|--------------------|
-| iOS Dev | SwiftUI, Swift, RealityKit, Combine |
-| AR/VR | Unity, AR Foundation, PolySpatial |
-| AI Integration | Replicate API, Firebase Functions |
-| Backend | Firebase (Firestore, Auth, Storage) |
-| Design | Figma |
+| Area                | Tools & Frameworks                                             |
+|---------------------|----------------------------------------------------------------|
+| Mobile Development  | SwiftUI, Swift, Flutter, RealityKit, Combine                   |
+| AR/VR               | Unity, AR Foundation, PolySpatial                              |
+| Web & Prototyping   | Framer                                                         |
+| AI & Backend        | Replicate API, Firebase Functions, Firestore, Auth, Storage    |
+| Design              | Figma                                                          |
 
 ---
+
 
 ## 📫 Connect
 
