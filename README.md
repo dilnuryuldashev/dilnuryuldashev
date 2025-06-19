@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Dilnur
 
-I'm a **Mobile/XR Developer** and **AR/AI Product Builder** passionate about **SwiftUI**, **Unity**, **Vision Pro**, **UX/UI Design**, and **Immersive experiences**.
+I'm a **Mobile/XR Developer**, **Design Engineer**, and **AR/AI Product Builder** with deep expertise in **Framer**, **SwiftUI**, **Unity**, and **Flutter**—passionate about crafting pixel-perfect **UX/UI**, designing responsive **Framer websites**, and creating immersive experiences.
 
-With over **50 shipped mobile apps**, I bring ideas to life — from AI photo generation to IoT-connected AR apps — blending great user experience with emerging tech like **spatial computing** and **Gen AI**.
+With over **50 shipped mobile apps**, I bring ideas to life—from seamless signup flows and Framer-built sites to AI-powered photo generation and IoT-connected AR—blending user-centric design with cutting-edge tech like **spatial computing** and **Gen AI**.
 
 ---
+
 
 ## 🚀 Featured Projects
 
@@ -15,6 +16,21 @@ With over **50 shipped mobile apps**, I bring ideas to life — from AI photo ge
 
 ### [AmbAI (iOS, SwiftUI)](https://apps.apple.com/us/app/ambai/id6736535568)
 **Proximity-based object intelligence** using IoT Pixels and Bluetooth beacons. Live on App Store. Showcased at NRF NYC, MWC Barcelona, and Shoptalk Las Vegas.
+
+---
+
+### [DeckHaven – Patio Builder (Framer)](https://deckhaven.framer.website/)
+**Patio/deck builder website** — Customized a Framer template to deliver a high-converting landing page for a patio and deck construction business, with pixel-perfect layouts, mobile-first responsiveness, and clean interaction design.
+
+---
+
+### [PixelPrimeLabs – Small Business Website Builder (Framer)](https://pixelprimelabs.com/)
+**Small business site builder** — Developed and launched a no-code Framer-based platform for local service providers, focusing on intuitive editing workflows, SEO-optimized structure, and rapid deployment.
+
+---
+
+### [Morfed Signup Page (Framer)](https://www.morfed.app/)
+**Responsive signup and onboarding flow** — Designed and built in Framer to deliver a seamless registration experience for Morfed, with intuitive form interactions, real-time validation, and consistent brand styling.
 
 ---
 
